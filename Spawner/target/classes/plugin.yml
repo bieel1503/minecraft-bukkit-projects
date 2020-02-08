@@ -1,0 +1,6 @@
+name: Spawner
+main: br.spawner.Main
+version: 1.0
+author: bieel1503
+commands:
+  spawner:

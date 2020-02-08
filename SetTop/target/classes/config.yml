@@ -1,0 +1,25 @@
+conf:
+  #tempo em segundos...
+  jogadores-atualizar-em: 60
+  clan-atualizar-em: 60
+  bonecos:
+    clan-holograms:
+      sem-top:
+        - "Eu sou famoso por ser sem TOP..."
+        - "Sim, eu sei. Sou pequeno, magrelo... mas por favor não me odeie!"
+        - "Faço de tudo, apenas não beijo!"
+      com-top:
+        - "Eu sou o TOP {top}, bitchi!"
+        - "Esse é o nome do meu clan: {clanname}. E o a tag do meu clan: {clantag}"
+        - "KDR do meu clan: {clankdr}"
+        - "Esse é um leader aleatório do clan: {clanleader}"
+        - "Esse é o total de dinheiro que meu clan tem se juntado com o dinheiro dos membros: {dinheiro}"
+    jogador-holograms:
+      sem-top:
+        - "Eu sou famoso por ser sem TOP..."
+        - "Sim, eu sei. Sou pequeno, magrelo... mas por favor não me odeie!"
+        - "Faço de tudo, apenas não beijo!"
+      com-top:
+        - "Esse sou eu: {jogador}, e sou o TOP {top}."
+        - "Eu sou rico(talvez nem tanto). Meu dinheiro: {dinheiro}"
+        - "Nome do meu clan: {clanname}, tag: {clantag}, chattag: {chattag}"

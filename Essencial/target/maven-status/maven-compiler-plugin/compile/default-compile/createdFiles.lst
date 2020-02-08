@@ -1,0 +1,4 @@
+br/essencial/commands/Gamemode.class
+br/essencial/commands/EssencialCommand.class
+br/essencial/Main.class
+br/essencial/utils/Utils.class

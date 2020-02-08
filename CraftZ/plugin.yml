@@ -1,0 +1,67 @@
+name: xCraftZ
+version: 1.0
+main: me.xt.Main
+author: xTj50
+commands:
+    gamemode:
+        aliases: [gm]
+    tell:
+        aliases: [msg, pm, mp, mensagem]
+    r:
+        aliases: [reply, responder]
+    broadcast:
+        aliases: [anunciar, transmissao]
+    fly:
+        aliases: [voar]
+    kit:
+        aliases: [kits]
+    ping:
+        aliases: [lag]
+    test:
+    invsee:
+        aliases: [verinv]
+    register:
+        aliases: [registrar]
+    login:
+        aliases: [logar]
+    changepassword:
+    auth:
+        aliases: [trocarsenha]
+    who:
+        aliases: [list, jogadores]
+    tag:
+        aliases: [tags]
+    kill:
+        aliases: [suicide, morrer]
+    money:
+        aliases: [balance, dinheiro]
+    c:
+        aliases: [chat]
+    ban:
+    ipban:
+        aliases: [banirip, ban-ip]
+    staffchat:
+        aliases: [sc]
+    tempban:
+    kick:
+        aliases: [expulsar]
+    kickall:
+        aliases: [expulsartodos]
+    unban:
+        aliases: [desbanir, pardon, pardon-ip]
+    mute:
+        aliases: [mutar]
+    tempmute:
+    unmute:
+        aliases: [desmutar]
+    tp:
+    tphere:
+    warp:
+    gowarp:
+    speed:
+    tpall:
+    head:
+    build:
+    setwarp:
+    delwarp:
+    admin:

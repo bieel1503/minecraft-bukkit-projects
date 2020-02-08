@@ -1,0 +1,153 @@
+bonequinhos:
+  clan:
+    top1:
+      items:
+        mao:
+          itemid: ""
+          bilho: false
+        peito:
+          itemid: ""
+          bilho: false
+        pernas:
+          itemid: ""
+          bilho: false
+        pes:
+          itemid: ""
+          bilho: false
+      local: {}
+    top2:
+      items:
+        mao:
+          itemid: ""
+          bilho: false
+        peito:
+          itemid: ""
+          bilho: false
+        pernas:
+          itemid: ""
+          bilho: false
+        pes:
+          itemid: ""
+          bilho: false
+      local: {}
+    top3:
+      items:
+        mao:
+          itemid: ""
+          bilho: false
+        peito:
+          itemid: ""
+          bilho: false
+        pernas:
+          itemid: ""
+          bilho: false
+        pes:
+          itemid: ""
+          bilho: false
+      local: {}
+    top4:
+      items:
+        mao:
+          itemid: ""
+          bilho: false
+        peito:
+          itemid: ""
+          bilho: false
+        pernas:
+          itemid: ""
+          bilho: false
+        pes:
+          itemid: ""
+          bilho: false
+      local: {}
+    top5:
+      items:
+        mao:
+          itemid: ""
+          bilho: false
+        peito:
+          itemid: ""
+          bilho: false
+        pernas:
+          itemid: ""
+          bilho: false
+        pes:
+          itemid: ""
+          bilho: false
+      local: {}
+  player:
+    top1:
+      items:
+        mao:
+          itemid: ""
+          bilho: false
+        peito:
+          itemid: ""
+          bilho: false
+        pernas:
+          itemid: ""
+          bilho: false
+        pes:
+          itemid: ""
+          bilho: false
+      local: {}
+    top2:
+      items:
+        mao:
+          itemid: ""
+          bilho: false
+        peito:
+          itemid: ""
+          bilho: false
+        pernas:
+          itemid: ""
+          bilho: false
+        pes:
+          itemid: ""
+          bilho: false
+      local: {}
+    top3:
+      items:
+        mao:
+          itemid: ""
+          bilho: false
+        peito:
+          itemid: ""
+          bilho: false
+        pernas:
+          itemid: ""
+          bilho: false
+        pes:
+          itemid: ""
+          bilho: false
+      local: {}
+    top4:
+      items:
+        mao:
+          itemid: ""
+          bilho: false
+        peito:
+          itemid: ""
+          bilho: false
+        pernas:
+          itemid: ""
+          bilho: false
+        pes:
+          itemid: ""
+          bilho: false
+      local: {}
+    top5:
+      items:
+        mao:
+          itemid: ""
+          bilho: false
+        peito:
+          itemid: ""
+          bilho: false
+        pernas:
+          itemid: ""
+          bilho: false
+        pes:
+          itemid: ""
+          bilho: false
+      local: {}
