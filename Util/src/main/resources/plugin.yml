@@ -1,0 +1,8 @@
+name: Util
+main: br.bieel.util.Core
+load: startup
+version: 1.0
+author: bieel1503
+commands:
+  test:
+    aliases: [test1, testing]

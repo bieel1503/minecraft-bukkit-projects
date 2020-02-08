@@ -1,0 +1,5 @@
+name: Survival
+main: br.krabby.survival.Core
+version: 1.0
+author: bieel1503
+description: Krabby's survival server main plugin.

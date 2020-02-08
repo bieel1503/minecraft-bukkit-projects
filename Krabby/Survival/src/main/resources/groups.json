@@ -1,0 +1,17 @@
+{
+    "default":{
+        "permissions": null
+    },
+    "supporter":{
+        "permissions": null
+    },
+    "helper":{
+        "permissions": null
+    },
+    "moderator":{
+        "permissions": null
+    },
+    "administrator":{
+        "permissions": null
+    }
+}

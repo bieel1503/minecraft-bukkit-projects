@@ -1,0 +1,38 @@
+Ligas ao invés de ranks?:
+  Ideia: A liga seria desputada por pontos corridos, que o jogador ganharia de algum jeito. O sistema de ligas terá um tempo de rotação para a liga casual e viciados, que seria algo para subir os 10 primeiros e rebaixar os 10 últimos da liga viciados.
+  Ligas:{
+    "Sem liga(tenho que ver um nome melhor)":{
+        Detalhes: A "primeira liga" que o jogador terá. Ela servirá para ter certeza que o jogador continuará a jogar no servidor(ou algo do tipo). Será a única liga que terá objetivos para serem concluidos.
+        Objetivos:[
+            juntar um tempo online no servidor,
+            matar X jogadores,
+            e sei lá
+        ]
+    },
+    "Casual":{
+        Limite de jogadores: Ilimitado.
+        Detalhes: Essa será a liga que quase todo mundo vai estar. Ela terá competição por pontos corridos e apenas os 10 primeiros subirão de liga. Os 10 primeiros, em teoria, seriam os mais viciados. Serão rebaixados para a liga "sem liga" os que não tiverem feitos pontos minimos.
+        Pontos minimos para ficar na liga: sei lá.
+        Tempo de rotação: 1 semana.
+        Objetivo: Ficar entre os 10 primeiros.
+    },
+    "Viciados(nome óbvio, muito provável que mude)":{
+        Limite de jogadores: 20.
+        Detalhes: Será uma compétição para ver quem fica nos 3 primeiros. Terá certos beneficios de ficar entre os 3 primeiros. Os 10 últimos serão rebaixados para a liga casual e os 10 primeiros da casual tomariam os lugares.
+        Tempo de rotação: 1 semana.
+        Objetivo: Ficar entre os 3 primeiros.
+        Beneficios: TODO.
+    }
+  }
+Mostrar no player list:[
+    jogadores online,
+    discord,
+    tempo online,
+    horário?,
+    ping?
+]
+Mostrar o horário em algum lugar(provavelmente no TAB).
+Porcentagem por morte dividida.(https://youtu.be/R2bEY1ZGVD4?t=239.)
+Mostrar em 'title' novos doadores?
+Copiar '/troll' do trolando hackers do badboyhalo.(playlist: https://www.youtube.com/playlist?list=PL_QcMl2SXklrCLwoj4zDdWP4HpEdgMLyA)
+Copiar o 'arcane.gg' para o modo 1V1.(https://youtu.be/NV-WW65ijMg?t=44)

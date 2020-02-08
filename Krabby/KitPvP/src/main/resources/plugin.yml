@@ -1,0 +1,6 @@
+name: KitPvP
+main: krabby.kitpvp.Core
+version: 1.0
+author: bieel1503
+load: startup
+description: Krabby's kitpvp server main plugin.
