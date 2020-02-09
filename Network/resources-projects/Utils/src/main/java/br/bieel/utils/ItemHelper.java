@@ -145,8 +145,7 @@ public final class ItemHelper {
         return this;
     }
     public ItemHelper lore(String... lines){
-        lore(Arrays.asList(lines));
-        return this;
+        return lore(Arrays.asList(lines));
     }
     public ItemHelper texture(String texture){
         skull().setString("Id", UUID.randomUUID().toString());
