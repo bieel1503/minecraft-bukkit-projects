@@ -169,16 +169,16 @@ public final class PermissionHelper extends StorageHelper {
         super("permissões");
     }
 
-    public synchronized void requestDeleteGroup(String name, Callable callable){
+    public void requestDeleteGroup(String name, Callable callable){
         new DeleteGroupQuery(name, callable).start(true);
     }
-    public synchronized void requestCreateGroup(String name, Callable callable){
+    public void requestCreateGroup(String name, Callable callable){
         new CreateGroupQuery(name, callable).start(true);
     }
-    public synchronized void requestAllGroups(boolean async, StorageCallback<Map<String, PermissionGroup>> callable){
+    public void requestAllGroups(boolean async, StorageCallback<Map<String, PermissionGroup>> callable){
         new RequestGroupsQuery(callable).start(async);
     }
-    public synchronized void checkStorage(){
+    public void checkStorage(){
         new CheckStorageQuery().start(false);
     }
 }
