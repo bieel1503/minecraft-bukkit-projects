@@ -11,7 +11,7 @@ public class BoardLine {
     public BoardLine(PlayerBoard playerBoard, int index, String prefix, String entry, String suffix){
         this.playerBoard = playerBoard;
         this.index = index;
-        this.dummyTeam = playerBoard.getScoreboard().registerNewTeam("line"+playerBoard.getIndex());
+        this.dummyTeam = playerBoard.getScoreboard().registerNewTeam("line"+index);
         this.dummyTeam.addEntry(entry);
         this.dummyTeam.setPrefix(prefix);
         this.dummyTeam.setSuffix(suffix);
@@ -21,7 +21,7 @@ public class BoardLine {
     public BoardLine(PlayerBoard playerBoard, String text, int index){
         this.index = index;
         this.playerBoard = playerBoard;
-        this.dummyTeam = playerBoard.getScoreboard().registerNewTeam("line"+playerBoard.getIndex());
+        this.dummyTeam = playerBoard.getScoreboard().registerNewTeam("line"+index);
         this.setLine(text);
     }
 
@@ -30,6 +30,9 @@ public class BoardLine {
     }
     public String getLine(){
         return this.text;
+    }
+    public int getIndex(){
+        return this.index;
     }
     public void setLine(String text){
         this.text = text;
