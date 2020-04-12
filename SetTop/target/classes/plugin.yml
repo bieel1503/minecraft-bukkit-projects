@@ -1,6 +1,0 @@
-name: SetTop
-main: br.settop.Main
-version: 1.0
-author: bieel1503
-commands:
-  settop:

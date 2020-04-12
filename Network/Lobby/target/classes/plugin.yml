@@ -1,5 +1,0 @@
-name: LobbyCore
-main: br.network.lobby.Core
-load: startup
-version: 1.0
-author: bieel1503

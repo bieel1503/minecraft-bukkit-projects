@@ -1,7 +1,0 @@
-name: Desbanimentos
-version: 1.0
-main: br.desbanimentos.Main
-author: bieel1503
-commands:
-  addunban:
-  desbanir:
