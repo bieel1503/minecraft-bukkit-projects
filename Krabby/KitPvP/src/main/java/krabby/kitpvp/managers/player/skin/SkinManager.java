@@ -5,6 +5,7 @@ import java.util.Map;
 
 public final class SkinManager {
     private static final Map<String, SkinBase> skins = new HashMap<>();
+    
 
     public static SkinBase getSkin(String name){
         return skins.get(name);
