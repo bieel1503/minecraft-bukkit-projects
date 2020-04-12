@@ -28,7 +28,6 @@ public class Jogador {
     private boolean invincible;
     private List<Jogador> friends;
     private Skin skin;
-    //testing
 
     public Jogador(String name, String id){
         this.name = name;
