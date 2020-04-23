@@ -1,4 +1,4 @@
-package br.network.lobby;
+package krabby.lobby;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
