@@ -1,9 +1,7 @@
 package br.bieel.storage;
 
 import java.sql.SQLException;
-import java.util.logging.Level;
 import java.util.logging.Logger;
-
 import com.mysql.jdbc.MySQLConnection;
 import com.mysql.jdbc.jdbc2.optional.MysqlDataSource;
 import org.bukkit.configuration.ConfigurationSection;
@@ -12,8 +10,8 @@ import org.bukkit.plugin.Plugin;
 public final class StorageHolder {
     private static StorageHolder singleton;
     private final MysqlDataSource dataSource;
-    private Plugin plugin;
-    private String server;
+    private final Plugin plugin;
+    private final String server;
 
     private StorageHolder(String server, Plugin plugin){
         this.server = server;
